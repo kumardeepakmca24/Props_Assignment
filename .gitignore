@@ -1,0 +1,5 @@
+*.pyc
+*.PYC
+*.xls
+*.xlsx
+local_settings.py
