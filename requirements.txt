@@ -1,6 +1,6 @@
 certifi==2019.6.16
 chardet==3.0.4
-Django==1.11.22
+Django==1.11.29
 googlemaps==3.0.2
 idna==2.8
 pytz==2019.1
